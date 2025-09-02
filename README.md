@@ -20,8 +20,6 @@ Prime News Hub is a modern, real-time news web application built with **React.js
 
 ## Screenshots 🖼️
 
-## Screenshots 🖼️
-
 Home Page:
 
 ![Home Page](Screenshorts/Home.png)
