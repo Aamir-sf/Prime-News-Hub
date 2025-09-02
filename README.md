@@ -24,7 +24,7 @@ Home Page:
 
 ![Home Page](Screenshorts/Home.png)
 
-Business News:
+Science News:
 
 ![Science News](Screenshorts/Science.png)
 
