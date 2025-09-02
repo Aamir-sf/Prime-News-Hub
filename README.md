@@ -49,13 +49,17 @@ About Page:
    ```bash
    git clone https://github.com/Aamir-sf/Prime-News-Hub.git
 2. Install dependencies:
+   ```bash
    npm install
-3. Create a .env file in the root folder and add your NewsAPI key:
+4. Create a .env file in the root folder and add your NewsAPI key:
+   ```bash
    REACT_APP_NEWS_API=YOUR_API_KEY
-4. Start the application:
+6. Start the application:
+   ```bash
    npm start
 
 📦 Folder Structure
+   ```bash
 Prime-News-Hub/
 ├── public/
 ├── src/
