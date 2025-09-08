@@ -1,4 +1,4 @@
-# 📰 Prime News Hub
+# 📰 Prime News Hub By Aamir
 
 [API Used](https://newsapi.org/)
 
